@@ -1,0 +1,14 @@
+{
+  "name": "btc-race-24h-bot",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A bot for make.fun's 24-hour BTC race, written to agent-fun/bars-replay/v1.",
+  "license": "MIT",
+  "engines": {
+    "node": "22"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
