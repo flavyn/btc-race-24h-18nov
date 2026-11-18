@@ -9,7 +9,7 @@ Run every command from the repository root. Use Node 22 (the grader's runtime).
 node <kit>/cli/makefun.mjs grade-local --kit <kit> --bot <repo> --driver process --json
 ```
 
-`<kit>` is the unpacked `btc-race-24h-20261117-0603-kit`. This replays the kit's dev window against
+`<kit>` is the unpacked `btc-race-24h-20261118-1444-kit`. This replays the kit's dev window against
 `main.ts` exactly as the grader does.
 
 What must be true in the JSON it prints:
@@ -134,7 +134,7 @@ These are `submission` phase in `check` output, and they decide intake, not the 
 - `duplicate_snapshot` — the files differ from every earlier entry.
 - `repo_readme` — the README carries this competition's three live make.fun badges (not
   `img.shields.io`), links to a make.fun page, and holds no `{owner}` placeholder. The badge URLs in
-  this README name `flavyn/btc-race-24h-bot`: **if the repository is created under another name, those
+  this README name `flavyn/btc-race-24h-18nov`: **if the repository is created under another name, those
   two URLs must be changed to match before submitting.**
 - `repo_about` — GitHub About has a website on make.fun and the topic `makefun`.
 

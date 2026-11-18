@@ -1,8 +1,8 @@
-# btc-race-24h-20261117-0603 — BTC trading bot
+# btc-race-24h-20261118-1444 — BTC trading bot
 
-[![make.fun competition](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
-[![make.fun rank](https://make.fun/badge/btc-race-24h-20261117-0603/flavyn/btc-race-24h-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
-[![make.fun reward](https://make.fun/badge/btc-race-24h-20261117-0603/flavyn/btc-race-24h-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![make.fun competition](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![make.fun rank](https://make.fun/badge/btc-race-24h-20261118-1444/flavyn/btc-race-24h-18nov/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![make.fun reward](https://make.fun/badge/btc-race-24h-20261118-1444/flavyn/btc-race-24h-18nov/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
 
 A trading bot for make.fun's 24-hour BTC race, written to the `agent-fun/bars-replay/v1` protocol.
 
